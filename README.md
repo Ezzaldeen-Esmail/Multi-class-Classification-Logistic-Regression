@@ -10,7 +10,7 @@ To demonstrate how to implement **multi-class classification strategies** in Pyt
 ---
 
 ### 📂 **Dataset Used**
-- File: `https://www.kaggle.com/datasets/ezzaldeenesmail/obesitydataset-raw-and-data-sinthetic`
+- File: https://www.kaggle.com/datasets/ezzaldeenesmail/obesitydataset-raw-and-data-sinthetic
 - Loaded with: `pandas.read_csv()`
 - Target column: `NObeyesdad` (which represents obesity categories)
 
